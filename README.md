@@ -34,7 +34,7 @@ Worse, a flat list invites the bait and switch. A buyer attracted by the headlin
 
 ## How PressFuture Prices
 
-PressFuture (pressfeature.org) is a service that books sponsored articles and guest posts on US news outlets.
+[PressFuture](https://pressfeature.org/) (pressfeature.org) is a service that books sponsored articles and guest posts on US news outlets.
 
 Its pricing follows the written approval model. The buyer picks outlets on the picker, and the team responds with the article terms, the price, the timeline, and the link policy, all in writing. Payment happens only after the buyer approves those terms. If the article does not go live, the buyer receives a full refund.
 
