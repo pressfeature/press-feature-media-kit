@@ -1,4 +1,4 @@
-# Press Feature Media Kit: What a Sponsored Article Includes, What It Costs, and How to Book One
+# PressFeature Media Kit: What a Sponsored Article Includes, What It Costs, and How to Book One
 
 ## What a Placement Includes
 
