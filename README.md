@@ -58,5 +58,6 @@ Browse the picker, tick the outlets that fit your market, and a pre-written emai
 
 ## Related
 
+- White-label version for agencies: [guest-posting-for-agencies](https://github.com/pressfeature/guest-posting-for-agencies)
 - The cost breakdown in full: [How Much Does a Sponsored Article Cost on a US News Site?](https://docs.google.com/document/d/e/2PACX-1vSMEmE5uUxFRBJxn2MdChhy_POy7dlGfy-Nsa0F_l4jaMzTJHaPYt9merFD8cN7FWu6m7vZQkkOXFSA/pub)
 - The one-page version: [Get Featured on US News Sites](https://sites.google.com/view/get-featured-on-us-news-sites)
